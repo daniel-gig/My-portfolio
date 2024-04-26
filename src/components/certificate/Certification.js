@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
 
-export default function () {
+export default function Certification() {
   return (
     <div>
       <Container fluid className="certificate-section" id="about">
