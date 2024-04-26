@@ -1,4 +1,4 @@
-![Portfolio](https:/https://github.com/daniel-gig/My-portfolio/blob/main/Untitled.png)
+![Portfolio](https://github.com/daniel-gig/My-portfolio/blob/main/Untitled.png)
 
 # Getting Started with Create React App
 
