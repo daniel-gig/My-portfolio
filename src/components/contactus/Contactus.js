@@ -4,7 +4,7 @@ import Zoom from "react-reveal/Zoom";
 import axios from "axios";
 import { useState } from "react";
 import { AiOutlineSend } from "react-icons/ai";
-import { FiPhone, FiAtSign } from "react-icons/fi";
+import { FiAtSign } from "react-icons/fi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 
 export default function Contactus() {
