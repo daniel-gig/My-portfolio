@@ -13,7 +13,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 //   "https://raw.githubusercontent.com/MD-MAFUJUL-HASAN/Personal-Portfolio/main/src/assets/React-CV.pdf";
 
 function Resume() {
-  const [width, setWidth] = useState(1200);
+  const [setWidth] = useState(1200);
 
   useEffect(() => {
     setWidth(window.innerWidth);
@@ -39,7 +39,7 @@ function Resume() {
                 <Button variant="primary" href={pdf} target="_blank">
                   <AiOutlineDownload />
                   &nbsp;Download Resume
-                </Button>
+                </Button> 
               </div>
             </div>
           </Container>
