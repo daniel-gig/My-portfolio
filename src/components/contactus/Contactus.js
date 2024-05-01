@@ -133,7 +133,7 @@ export default function Contactus() {
                           <HiOutlineLocationMarker />
                         </div>
                         <p style={{ color: "#fbd9ad" }}>
-                        608 E Kearney St, Mesquite, TX 75149-4418.
+                        24, Voćarska,Grocka Urban Municipality,Belgrade 11351
                         </p>
                     </div>
                   </div>
