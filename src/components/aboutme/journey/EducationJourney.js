@@ -43,7 +43,7 @@ function EducationJourney() {
             B.S. Computer Science
           </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-          University of Central Florida
+          University of Belgrade
           </h4>
         </VerticalTimelineElement>
         </VerticalTimeline>
